@@ -1,0 +1,103 @@
+.navbar{
+    background-color:  #9c0e76  !important;
+}
+
+.nav-link{
+    color: #fff !important;S
+    font-weight: bold;
+}
+
+.fa-shopping-cart,.fa-user{
+    font-size: 32px !important;
+}
+
+.fa-truck,.fa-headphones,.fa-thumbs-up{
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: blueviolet;
+}
+
+h3{
+    color:#9c0e76;
+}
+.card1,.card2,.card3{
+    display: flex;
+    width:300px;
+    height:100px;
+    background-color: white;
+    box-shadow: 2px 4px 5px grey;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.maincard{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+     justify-content: space-around;
+     flex-wrap: wrap;
+    }
+
+    .newArrivals{
+        margin-top: 50px;
+    }
+
+.card{
+    width:250px;
+    height:auto !important;
+    margin-bottom: 30px;
+}    
+
+.card-text{
+    font-weight: bold;
+}
+    
+.btn-primary{
+        width:100%;
+        background-color:rgb(147, 24, 96);
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(134, 14, 110);
+    margin: 20px;
+    text-shadow: 2px 5px 6px brown;
+}
+
+ div .carousel-caption h5 {
+color: #28e4d2;
+font-weight: bold;
+}
+
+div .carousel-caption p {
+    color: rgb(55, 152, 95);
+    
+}
+
+.footer{
+      width:100%;
+      background-color: #9c0e76 ;
+      height: 60px;
+}
+
+div .footer .share a {
+    text-align: center;
+    text-decoration: dotted;
+    justify-content: space-between;
+    padding: 34%;
+}
+
+div .footer .fab fa-facebook-f a {
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+h4{
+ color: white;
+}
+.w-100 {
+    width: 70%;
+}
